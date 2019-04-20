@@ -1,4 +1,4 @@
-# grammer-solver
+# grammar-solver
 A client that reads grammar in Backus-Naur Form and allows the user to randomly generate sentences.
 
 (See project description)
