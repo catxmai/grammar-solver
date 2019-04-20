@@ -1,6 +1,8 @@
 # grammer-solver
 A client that reads grammar in Backus-Naur Form and allows the user to randomly generate sentences.
 
+(See project description)
+
 A BNF grammar is specified as an input file containing one or more rules, each on its
 own line, of the form:
 
